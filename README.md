@@ -1,3 +1,4 @@
+[![Version](https://img.shields.io/badge/Rimworld-A17-yellowgreen.svg)](http://rimworldgame.com/)
 # Female Elephants Have Tusks
 
 Make the female elephants to also drop tusks when butchered.
